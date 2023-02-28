@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @chandanraghav10
-- 👀 I’m interested in Frontend technology
-- 🌱 I’m currently learning Frontend technologies HTML, CSS, JS, React JS and Node JS
-- 💞️ I’m looking to collaborate on Basic UI or frontend projects
+- 👀 I aspire to become Data Engineer
+- 🌱 I’m currently learning Python and SQL.
+- 💞️ I’m looking to collaborate on Python and SQL data based projects
 - 📫 How to reach me ...
 
 <!---
